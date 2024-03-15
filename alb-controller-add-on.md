@@ -1,4 +1,4 @@
-# Before setting ALB congigure the OIDC 
+# Before setting ALB controller configure the OIDC 
 
 # How to setup alb add on
 
