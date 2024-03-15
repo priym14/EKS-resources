@@ -21,6 +21,7 @@ Create IAM Role
 ```
 eksctl create iamserviceaccount \
   --cluster=<your-cluster-name> \
+  --region us-east-2 \
   --namespace=kube-system \
   --name=aws-load-balancer-controller \
   --role-name AmazonEKSLoadBalancerControllerRole \
