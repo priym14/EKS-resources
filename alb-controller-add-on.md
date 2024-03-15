@@ -1,3 +1,5 @@
+# Before setting ALB congigure the OIDC 
+
 # How to setup alb add on
 
 Download IAM policy
